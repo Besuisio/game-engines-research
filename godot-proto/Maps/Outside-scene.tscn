@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/Tilesheet/Tileset.tres" type="TileSet" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_right = 1024.0
+margin_bottom = 592.0
+color = Color( 0.980392, 0.917647, 0.764706, 1 )
+
+[node name="TileMap" type="TileMap" parent="ColorRect"]
+tile_set = ExtResource( 1 )
+cell_size = Vector2( 80, 80 )
+format = 1
