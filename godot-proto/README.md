@@ -1,4 +1,4 @@
-# klm-godot-proto
+# godot-proto
 
 For the game engine research, a protype will be made in every game engine on the research list.
 
