@@ -21,4 +21,4 @@ For my game engine research, a protype will be made in every game engine on the 
 - It has to a 2d game
 - It support webGL (webbrowser engines)
 - It has a nice and simple IDE
-- (Optional) it can also be integrated to a mobile web version or mobile game
+- (Optional) it can also be exported or integrated to a mobile web version or mobile game
